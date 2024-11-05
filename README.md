@@ -1,2 +1,2 @@
 # Nyx
-Nyx Engine
+Nyx Game Engine
